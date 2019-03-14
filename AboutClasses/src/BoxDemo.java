@@ -1,12 +1,12 @@
 //программа, использующая класс Box
 
-class Box {
+ class Box1 {
     double width, height, depth;
 }
 //В этом классе объявляется объект типа Box
 class BoxDemo {
     public static void main(String[] args) {
-        Box myBox = new Box();
+        Box1 myBox = new Box1();
         double vol;
         //присвоить значение переменным экземпляра myBox
         myBox.width=10;
