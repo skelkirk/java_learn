@@ -4,6 +4,7 @@
     <list default="true" id="0f5d3810-5b09-4b1f-b783-9013cc495c4b" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/BoxDemo7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BoxandNewMethods/Box.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BoxandNewMethods/Box.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,7 +53,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BoxDemo6.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="367">
+            <state relative-caret-position="440">
               <caret line="24" column="26" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="26" />
               <folding>
                 <element signature="e#460#461#0" expanded="true" />
@@ -66,11 +67,10 @@
         <entry file="file://$PROJECT_DIR$/src/BoxDemo7.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="200">
-              <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+              <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
               <folding>
-                <element signature="e#0#151#0" expanded="true" />
                 <element signature="e#358#359#0" expanded="true" />
-                <element signature="e#385#386#0" expanded="true" />
+                <element signature="e#399#400#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -111,8 +111,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -129,6 +127,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -211,7 +211,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1107" height="589" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.169378" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17224881" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -271,7 +271,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BoxDemo6.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
+        <state relative-caret-position="440">
           <caret line="24" column="26" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="26" />
           <folding>
             <element signature="e#460#461#0" expanded="true" />
@@ -283,11 +283,10 @@
     <entry file="file://$PROJECT_DIR$/src/BoxDemo7.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
-          <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
           <folding>
-            <element signature="e#0#151#0" expanded="true" />
             <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#399#400#0" expanded="true" />
           </folding>
         </state>
       </provider>
