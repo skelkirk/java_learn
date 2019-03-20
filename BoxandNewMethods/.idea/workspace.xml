@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f5d3810-5b09-4b1f-b783-9013cc495c4b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BoxDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BoxDemo5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BoxDemo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BoxDemo7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -19,8 +17,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BoxDemo3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+            <state relative-caret-position="380">
+              <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -28,11 +26,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BoxDemo4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="25" column="58" lean-forward="true" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="58" />
+            <state relative-caret-position="460">
+              <caret line="25" column="58" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="58" />
               <folding>
                 <element signature="e#154#155#0" expanded="true" />
-                <element signature="e#194#195#0" expanded="true" />
+                <element signature="e#195#196#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -41,23 +39,38 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BoxDemo5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
+            <state relative-caret-position="380">
               <caret line="21" column="58" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="58" />
               <folding>
                 <element signature="e#152#153#0" expanded="true" />
-                <element signature="e#179#180#0" expanded="true" />
+                <element signature="e#193#194#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BoxDemo6.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="367">
+              <caret line="24" column="26" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="26" />
+              <folding>
+                <element signature="e#460#461#0" expanded="true" />
+                <element signature="e#513#514#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/BoxDemo6.java">
+        <entry file="file://$PROJECT_DIR$/src/BoxDemo7.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="24" column="26" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="26" />
+            <state relative-caret-position="200">
+              <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
               <folding>
-                <element signature="e#513#514#0" expanded="true" />
+                <element signature="e#0#151#0" expanded="true" />
+                <element signature="e#358#359#0" expanded="true" />
+                <element signature="e#385#386#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -68,8 +81,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Singleton" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -83,6 +96,7 @@
         <option value="$PROJECT_DIR$/src/BoxDemo4.java" />
         <option value="$PROJECT_DIR$/src/BoxDemo5.java" />
         <option value="$PROJECT_DIR$/src/BoxDemo6.java" />
+        <option value="$PROJECT_DIR$/src/BoxDemo7.java" />
       </list>
     </option>
   </component>
@@ -98,6 +112,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -114,11 +129,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552934779216" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553022773228" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -135,7 +149,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BoxDemo6">
+  <component name="RunManager" selected="Application.BoxDemo7">
     <configuration name="BoxDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BoxDemo3" />
       <module name="BoxandNewMethods" />
@@ -164,8 +178,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BoxDemo7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BoxDemo7" />
+      <module name="BoxandNewMethods" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BoxDemo7" />
         <item itemvalue="Application.BoxDemo6" />
         <item itemvalue="Application.BoxDemo5" />
         <item itemvalue="Application.BoxDemo4" />
@@ -188,9 +210,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1107" height="589" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16650717" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.169378" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -199,7 +220,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.12747253" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -219,41 +240,54 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/BoxDemo4.java">
+    <entry file="file://$PROJECT_DIR$/src/BoxDemo3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="25" column="58" lean-forward="true" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="58" />
-          <folding>
-            <element signature="e#154#155#0" expanded="true" />
-            <element signature="e#194#195#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="380">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BoxDemo3.java">
+    <entry file="file://$PROJECT_DIR$/src/BoxDemo4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        <state relative-caret-position="460">
+          <caret line="25" column="58" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="58" />
+          <folding>
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BoxDemo5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
+        <state relative-caret-position="380">
           <caret line="21" column="58" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="58" />
           <folding>
             <element signature="e#152#153#0" expanded="true" />
-            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BoxDemo6.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
+        <state relative-caret-position="367">
           <caret line="24" column="26" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="26" />
           <folding>
+            <element signature="e#460#461#0" expanded="true" />
             <element signature="e#513#514#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BoxDemo7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#151#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
           </folding>
         </state>
       </provider>
