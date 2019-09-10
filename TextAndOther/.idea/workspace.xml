@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c4df4b3-3ce2-42ea-bfac-6204e01f7fa7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SubClassDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SubConstrDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ObjAndMethods/src/AObjDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ObjAndMethods/src/ArgsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ObjAndMethods/src/ArraysAndObjs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ObjAndMethods/src/InnerClassDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ObjAndMethods/src/MoreArgsDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ClassesAndObjects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ClassesAndObjects/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="99f29349-228f-4fa5-8610-a2daa23e8449" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../EulerProblems/EulerProblems.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/toStringRedefined.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InheritanceAndInterfaces/.idea/workspace.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,31 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SubClassDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-              <folding>
-                <element signature="e#0#862#0" expanded="true" />
-                <element signature="e#234#235#0" expanded="true" />
-                <element signature="e#258#259#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/SubConstrDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/toStringRedefined.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="49" column="17" lean-forward="true" selection-start-line="49" selection-start-column="17" selection-end-line="49" selection-end-column="17" />
-              <folding>
-                <element signature="e#463#464#0" expanded="true" />
-                <element signature="e#499#500#0" expanded="true" />
-                <element signature="e#889#890#0" expanded="true" />
-                <element signature="e#954#955#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="238">
+              <caret line="37" column="30" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -68,8 +43,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/SubClassDemo.java" />
-        <option value="$PROJECT_DIR$/src/SubConstrDemo.java" />
+        <option value="$PROJECT_DIR$/src/toStringRedefined.java" />
       </list>
     </option>
   </component>
@@ -81,8 +55,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
+    <option name="x" value="-60" />
+    <option name="y" value="20" />
     <option name="width" value="1390" />
     <option name="height" value="790" />
   </component>
@@ -96,20 +70,15 @@
         <subPane>
           <expand>
             <path>
-              <item name="InheritanceAndInterfaces" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InheritanceAndInterfaces" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="InheritanceAndInterfaces" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InheritanceAndInterfaces" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="TextAndOther" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TextAndOther" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -129,25 +98,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SubConstrDemo">
-    <configuration name="SubClassDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SubClassDemo" />
-      <module name="InheritanceAndInterfaces" />
+  <component name="RunManager" selected="Application.toStringRedefined">
+    <configuration name="toStringDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="toStringDemo" />
+      <module name="TextAndOther" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubConstrDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SubConstrDemo" />
-      <module name="InheritanceAndInterfaces" />
+    <configuration name="toStringRedefined" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="toStringRedefined" />
+      <module name="TextAndOther" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SubConstrDemo" />
-        <item itemvalue="Application.SubClassDemo" />
+        <item itemvalue="Application.toStringRedefined" />
+        <item itemvalue="Application.toStringDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -156,11 +125,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3c4df4b3-3ce2-42ea-bfac-6204e01f7fa7" name="Default Changelist" comment="" />
-      <created>1563815133325</created>
+      <changelist id="99f29349-228f-4fa5-8610-a2daa23e8449" name="Default Changelist" comment="" />
+      <created>1568134745682</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1563815133325</updated>
+      <updated>1568134745682</updated>
     </task>
     <servers />
   </component>
@@ -173,12 +142,12 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1365807" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.106017195" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Messages" weight="0.32894737" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.065789476" />
@@ -197,28 +166,10 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/SubClassDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/toStringRedefined.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="e#0#862#0" expanded="true" />
-            <element signature="e#234#235#0" expanded="true" />
-            <element signature="e#258#259#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SubConstrDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="49" column="17" lean-forward="true" selection-start-line="49" selection-start-column="17" selection-end-line="49" selection-end-column="17" />
-          <folding>
-            <element signature="e#463#464#0" expanded="true" />
-            <element signature="e#499#500#0" expanded="true" />
-            <element signature="e#889#890#0" expanded="true" />
-            <element signature="e#954#955#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="238">
+          <caret line="37" column="30" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="30" />
         </state>
       </provider>
     </entry>
